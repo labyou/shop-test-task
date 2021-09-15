@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shop-test-task/static/css/main.f9a06ab0.chunk.css",
+    "main.js": "/shop-test-task/static/js/main.080c1977.chunk.js",
+    "main.js.map": "/shop-test-task/static/js/main.080c1977.chunk.js.map",
+    "runtime-main.js": "/shop-test-task/static/js/runtime-main.8d84ab24.js",
+    "runtime-main.js.map": "/shop-test-task/static/js/runtime-main.8d84ab24.js.map",
+    "static/js/2.42c4e94c.chunk.js": "/shop-test-task/static/js/2.42c4e94c.chunk.js",
+    "static/js/2.42c4e94c.chunk.js.map": "/shop-test-task/static/js/2.42c4e94c.chunk.js.map",
+    "static/js/3.afec2896.chunk.js": "/shop-test-task/static/js/3.afec2896.chunk.js",
+    "static/js/3.afec2896.chunk.js.map": "/shop-test-task/static/js/3.afec2896.chunk.js.map",
+    "index.html": "/shop-test-task/index.html",
+    "static/css/main.f9a06ab0.chunk.css.map": "/shop-test-task/static/css/main.f9a06ab0.chunk.css.map",
+    "static/js/2.42c4e94c.chunk.js.LICENSE.txt": "/shop-test-task/static/js/2.42c4e94c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d84ab24.js",
+    "static/js/2.42c4e94c.chunk.js",
+    "static/css/main.f9a06ab0.chunk.css",
+    "static/js/main.080c1977.chunk.js"
+  ]
+}
